@@ -48,7 +48,7 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int));
 size_t binary_tree_height(const binary_tree_t *tree);
 
 /*helper function*/
-size_t maximum(int num1, int num2);
+
 
 
 #endif /*BINARY_TREE_H*/
