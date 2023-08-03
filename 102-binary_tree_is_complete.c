@@ -39,7 +39,7 @@ int  binary_tree_is_complete(const binary_tree_t *tree)
 			queue[rear] = current->left;
 			rear++;
 		}
-		else 
+		else
 		{
 			incomplete_node = 1;
 		}
