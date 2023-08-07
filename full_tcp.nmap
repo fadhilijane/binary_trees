@@ -1,0 +1,7 @@
+# Nmap 7.91 scan initiated Thu Aug  3 23:25:19 2023 as: nmap -A -sV -sC -T4 -p- -oN full_tcp.nmap 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00016s latency).
+All 65535 scanned ports on localhost (127.0.0.1) are closed
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Aug  3 23:25:23 2023 -- 1 IP address (1 host up) scanned in 4.69 seconds
