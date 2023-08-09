@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 O(log (n))
 O(log (n))
 O(log (n))
+=======
+O(log(n))
+O(log(n))
+O(log(n))
+>>>>>>> e73ef1e71b9966bc83d57325a5d2097a3373c667
